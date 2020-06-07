@@ -17,12 +17,6 @@ printNumbersTill(N);
 // Create a function which gets a name as parameter and then returns a greeting to the specified person.
 let greeter = name => {
     console.log(`Hello ${name}!`);
-    // if (name === "Adam") {
-    //     console.log("he's an adult");
-    // }
-    // if (name === "Mate") {
-    //     console.log("he's an adult");
-    // }
 }
 name = "Mark"
 console.log(`Now, the "greeter" function says Hello to ${name}:`);
